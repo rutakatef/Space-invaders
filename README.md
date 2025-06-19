@@ -1,2 +1,2 @@
-Pentru a putea juca acest trebuie dat run la program si dupa apare un meniu cu trei butoane: "start joc", "setari" si iesire. Primul buton incepe jocul care e alcatuit din 3 nivele. Primul nivel contine numai un val de extraterestrii, 
+Pentru a putea juca acest joc trebuie dat run la program si dupa apare un meniu cu trei butoane: "start joc", "setari" si iesire. Primul buton incepe jocul care e alcatuit din 3 nivele. Primul nivel contine numai un val de extraterestrii, 
 al doilea nivel contine doua valuri de extraterestrii si al treilea nivel este un boss fight. Butonul de setari nu face nimic momentan, voiam sa pot ajusta volumul din el, si butonul de iesire inchide jocul.
